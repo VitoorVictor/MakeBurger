@@ -1,19 +1,22 @@
 # vue-burger-project
 
-## Project setup
+## Setup do Projeto
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Roda um banco de dados interno
+```
+npm run backend
+```
+
+### Compila e roda o projeto
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compila e manifesta as produções
 ```
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
